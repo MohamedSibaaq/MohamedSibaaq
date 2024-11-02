@@ -3,7 +3,9 @@
 - 💞️ I’m looking to collaborate on Data Analytics Projects using Python and R.
 - 📝 Knowlegde covered: Java, C, C++, Python, R and SQL along with SAS Enterprise Miner. 
 - 📫 How to reach me through:
+  
   **Email:** mohamedsibaaq@proton.me
+  
   **Telegram:** @S1BBY
    
 
