@@ -32,6 +32,7 @@ I am committed to continuous professional development and am open to collaborati
 - **Financial Technology (FinTech):** Leveraging technology to improve and automate financial services.
 - **Payment Systems:** The infrastructure and processes for transferring value between parties.
 - **ISO 20022:** An international standard for financial messaging, creating a common language for payments data worldwide.
+- **EMVCo QR Code Standard:** A global specification for QR code-based payments ensuring interoperability and security. I have hands-on experience in developing the PayMV QR Code Standard of the Maldives, contributing to the nation's standardized QR payment framework.
 - **Open Banking:** Using APIs to enable third-party developers to build applications and services around financial institutions.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="20" height="20"/> `Docker`
 - ⚙️ `API Development`
