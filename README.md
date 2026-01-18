@@ -4,7 +4,9 @@
 
 ### 👨‍💻 About Me
 
-As a dedicated technology professional at the Maldives Monetary Authority, I play a key role in modernizing the nation's FinTech sector. My responsibilities are broad and integral to our project lifecycles, spanning across Business Analysis to define requirements, Data Analysis to derive insights, and rigorous QA Testing to ensure system integrity. This work is centered on enhancing payment systems and fostering data-driven innovation and efficiency.
+I am currently a Fintech & Innovation Associate at Payment Maldives, where I focus on advancing payment systems and driving innovation in the financial technology sector.
+
+Previously, as a technology professional at the Maldives Monetary Authority, I played a key role in modernizing the nation's FinTech sector with broad responsibilities integral to our project lifecycle.
 
 I am committed to continuous professional development and am open to collaborating on data analytics projects that leverage Python and R.
 
