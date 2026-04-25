@@ -15,14 +15,14 @@ I am committed to continuous professional development and am open to collaborati
 ### 🛠️ Core Competencies
 
 - **Programming Languages:**
-  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="20" height="20"/> `Python`
-  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="20" height="20"/> `R`
-  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="20" height="20"/> `Java`
-  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="20" height="20"/> `C`
-  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="20" height="20"/> `C++`
-  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="20" height="20"/> `SQL`
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="20" height="20" style="vertical-align: middle;"/> `Python`
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="20" height="20" style="vertical-align: middle;"/> `R`
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="20" height="20" style="vertical-align: middle;"/> `Java`
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="20" height="20" style="vertical-align: middle;"/> `C`
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="20" height="20" style="vertical-align: middle;"/> `C++`
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="20" height="20" style="vertical-align: middle;"/> `SQL`
 - **Data Analytics & Visualization:**
-  - <img src="https://www.vectorlogo.zone/logos/sas/sas-icon.svg" alt="SAS" width="20" height="20"/> `SAS Enterprise Miner`
+  - <img src="https://www.vectorlogo.zone/logos/sas/sas-icon.svg" alt="SAS" width="20" height="20" style="vertical-align: middle;"/> `SAS Enterprise Miner`
   - 📊 `Power BI`
 
 ---
@@ -34,7 +34,7 @@ I am committed to continuous professional development and am open to collaborati
 - **ISO 20022:** An international standard for financial messaging, creating a common language for payments data worldwide.
 - **EMVCo QR Code Standard:** A global specification for QR code-based payments ensuring interoperability and security. I have hands-on experience in developing the PayMV QR Code Standard of the Maldives, contributing to the nation's standardized QR payment framework.
 - **Open Banking:** Using APIs to enable third-party developers to build applications and services around financial institutions.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="20" height="20"/> `Docker`
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="20" height="20" style="vertical-align: middle;"/> `Docker`
 - ⚙️ `API Development`
 - ✨ `Data-Driven Innovation`
 
